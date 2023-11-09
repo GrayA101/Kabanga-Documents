@@ -1,0 +1,26 @@
+Papeil Jean Gabriel
+Obar
+
+Agreement with Vodacom
+
+
+K-band -> satellite
+
+LEO
+
+One-Web 200MbS	100ms
+
+GEO
+latency-600ms
+
+$500
+
+
+
+
+
+
+
+
+
+

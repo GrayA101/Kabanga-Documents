@@ -1,0 +1,33 @@
+currently use? lan and wan
+
+WAN
+1. Options
+
+
+
+LAN
+
+
+
+Permanent
+
+
+1000 ppl
+50MbPS
+
+
+
+Exploration Camp
+300 ppl
+150Mbs
+
+Simba net - Private			3300 USD
+Vodacom - work related traffic only	5300 USD
+
+Comms tower in the camp - not yet built
+
+Satellite - too expensive
+
+Miraki
+
+
